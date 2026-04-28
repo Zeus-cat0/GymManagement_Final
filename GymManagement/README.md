@@ -3,7 +3,6 @@
 A Java Swing desktop application for managing gym memberships, built as part of a university assignment.
 
 **Author:** Darpan Ghimire  
-**Student ID:** 24045860
 
 ---
 
